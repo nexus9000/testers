@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java_course_2023:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a28de76c-804b-4845-91fc-b064eb1e2718" name="Changes" comment="java course">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/java_course_2023_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a203a89eb2c416d9da236968e89f55cbd72f34c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cad8b5b707fdc0e5dd2f62c815801be39d50310a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Departament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Departament_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Employer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/run/RunApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/run/SearchEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/itstep/run/RunAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/itstep/run/SearchEngineTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2PsqeyIoSxJJm9YUwVFImHzabaQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/java_course_2023/src/main/java/edu/itstep/oop",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.itstep.run" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SearchEngineTest.factorielTest">
+    <configuration name="console" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.itstep.run.RunApp" />
+      <module name="java_course_2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunAppTest.testSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_course_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.itstep.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.itstep.run" />
+      <option name="MAIN_CLASS_NAME" value="edu.itstep.run.RunAppTest" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchEngineTest.factorielTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_course_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.itstep.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.itstep.run" />
+      <option name="MAIN_CLASS_NAME" value="edu.itstep.run.SearchEngineTest" />
+      <option name="METHOD_NAME" value="factorielTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchEngineTest.linearSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_course_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.itstep.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.itstep.run" />
+      <option name="MAIN_CLASS_NAME" value="edu.itstep.run.SearchEngineTest" />
+      <option name="METHOD_NAME" value="linearSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.console" />
+      <item itemvalue="JUnit.SearchEngineTest.factorielTest" />
+      <item itemvalue="JUnit.SearchEngineTest.linearSearch" />
+      <item itemvalue="JUnit.RunAppTest.testSum" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SearchEngineTest.factorielTest" />
+        <item itemvalue="JUnit.SearchEngineTest.linearSearch" />
+        <item itemvalue="JUnit.RunAppTest.testSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a28de76c-804b-4845-91fc-b064eb1e2718" name="Changes" comment="" />
+      <created>1684256243919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684256243919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java course" />
+    <option name="LAST_COMMIT_MESSAGE" value="java course" />
+  </component>
+</project>
