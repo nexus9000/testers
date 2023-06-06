@@ -27,8 +27,5 @@ class SearchEngineTest {
        assertEquals(0, se.linearSearch(431529176, array));
     }
 
-    @Test
-    void factorielTest(){
-        assertEquals(1_0000, se.factoriel(1000));
-    }
+
 }

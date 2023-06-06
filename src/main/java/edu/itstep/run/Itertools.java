@@ -23,9 +23,12 @@ public class Itertools {
     private static <E> void printPermutations(E[] input){
         //for-each
         for(E element : input){
-            System.out.printf("%S ", element);
+          //  System.out.printf("%S ", element);
         }
-        System.out.println();
+      //  System.out.println();
     }
-
+    public static int factoriel(int number){
+        if(number == 1) return number;
+        return number * factoriel(number - 1);
+    }
 }

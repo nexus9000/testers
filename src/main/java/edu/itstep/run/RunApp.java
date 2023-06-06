@@ -1,9 +1,5 @@
 package edu.itstep.run;
 
-import edu.itstep.oop.Employee;
-
-import java.util.HashMap;
-
 public class RunApp {
 
 
@@ -32,8 +28,13 @@ public class RunApp {
 //        int result = searchEngine.linearSearch(33, array);
 //        if(result == 0)System.out.println("match found");
 //        else System.out.println("match doesn't found");
-        Integer [] perm = {1,2,3};
-        Itertools.permutations(3, perm);
+        Integer[] perm = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15};
+        int permNum = 15;
+        System.out.println("The number of permutations are: " + Itertools.factoriel(permNum));
+        long startTime = System.currentTimeMillis();
+        Itertools.permutations(permNum, perm);
+        long endTime = System.currentTimeMillis();
+        System.out.println("execution time  in msec. " + (endTime - startTime));
     }
 
 
