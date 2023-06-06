@@ -12,13 +12,13 @@ class SearchEngineTest {
  SearchEngine se;
     @BeforeEach
     void setUp() {
-        se = new SearchEngine();
-        Random random = new Random();
-        random.setSeed(1L);
-        for(int i = 0; i < array.length; i++){
-          array[i] = random.nextInt();
-          System.out.println(array[i]);
-        }
+      se = new SearchEngine();
+//        Random random = new Random();
+//        random.setSeed(1L);
+//        for(int i = 0; i < array.length; i++){
+//          array[i] = random.nextInt();
+//          System.out.println(array[i]);
+//        }
     }
 
     @Test
@@ -29,6 +29,6 @@ class SearchEngineTest {
 
     @Test
     void factorielTest(){
-        assertEquals(6, se.factoriel(3));
+        assertEquals(1_0000, se.factoriel(1000));
     }
 }

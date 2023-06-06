@@ -9,33 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a28de76c-804b-4845-91fc-b064eb1e2718" name="Changes" comment="java course">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/java_course_2023_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a203a89eb2c416d9da236968e89f55cbd72f34c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cad8b5b707fdc0e5dd2f62c815801be39d50310a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Departament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Departament_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Employer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/oop/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/run/RunApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/run/SearchEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/itstep/run/RunAppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/itstep/run/SearchEngineTest.java" afterDir="false" />
+    <list default="true" id="a28de76c-804b-4845-91fc-b064eb1e2718" name="Changes" comment="java course testers">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/run/Itertools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/itstep/run/RunApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/itstep/run/RunApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/itstep/run/SearchEngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/itstep/run/SearchEngineTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +28,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -69,21 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/java_course_2023/src/main/java/edu/itstep/oop",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.4",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/java_course_2023/src/main/java/edu/itstep/oop&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -92,7 +74,7 @@
       <recent name="edu.itstep.run" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SearchEngineTest.factorielTest">
+  <component name="RunManager" selected="Application.console">
     <configuration name="console" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="edu.itstep.run.RunApp" />
       <module name="java_course_2023" />
@@ -171,6 +153,14 @@
       <option name="presentableId" value="Default" />
       <updated>1684256243919</updated>
     </task>
+    <task id="LOCAL-00001" summary="java course">
+      <created>1685643022913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685643022913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

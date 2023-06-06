@@ -28,10 +28,12 @@ public class RunApp {
         int[] array = {13, 33, -1, 44, 130, 222};
         //Employee[] emp = {e1, e2, e3};
 
-        SearchEngine searchEngine = new SearchEngine();
-        int result = searchEngine.linearSearch(33, array);
-        if(result == 0)System.out.println("match found");
-        else System.out.println("match doesn't found");
+//        SearchEngine searchEngine = new SearchEngine();
+//        int result = searchEngine.linearSearch(33, array);
+//        if(result == 0)System.out.println("match found");
+//        else System.out.println("match doesn't found");
+        Integer [] perm = {1,2,3};
+        Itertools.permutations(3, perm);
     }
 
 
