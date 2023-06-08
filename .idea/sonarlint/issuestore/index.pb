@@ -20,3 +20,5 @@ Z
 *src/main/java/edu/itstep/oop/Employer.java,4\a\4ac9aa73dc54097a45c6b02318901c3ca7583b91
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+X
+(src/main/java/edu/itstep/oop/Person.java,9\8\986b86331af2ce767032eee0bca3e9ef0592be9c
